@@ -34,5 +34,11 @@ public class Variabels {
 
         char myChar = ' ';
         char myChar2 = 'c';
+
+
+        System.out.println("myChar = " + myChar);
+        System.out.println("myChar2 = " + myChar2);
+
     }
 }
+
