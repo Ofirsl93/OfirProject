@@ -38,7 +38,8 @@ public class Variabels {
 
         System.out.println("myChar = " + myChar);
         System.out.println("myChar2 = " + myChar2);
-
+ System.out.println("myChar = " + myChar);
+        System.out.println("myChar2 = " + myChar2);
     }
 }
 
